@@ -8,8 +8,9 @@
 import SwiftUI
 struct ModelView: View {
     var body: some View {
-       
-            Text("Thus is the modelView")
-        
+        VStack {
+            Text("This is the Second View")
+            
+        } .navigationBarTitle("Second View", displayMode: .inline)
     }
 }
