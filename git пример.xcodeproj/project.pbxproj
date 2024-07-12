@@ -11,6 +11,7 @@
 		9DB11BCD2C4152FC002D5C2F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB11BCC2C4152FC002D5C2F /* ContentView.swift */; };
 		9DB11BCF2C4152FD002D5C2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DB11BCE2C4152FD002D5C2F /* Assets.xcassets */; };
 		9DB11BD22C4152FD002D5C2F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DB11BD12C4152FD002D5C2F /* Preview Assets.xcassets */; };
+		9DB11BDB2C415775002D5C2F /* ModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DB11BDA2C415775002D5C2F /* ModelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9DB11BCC2C4152FC002D5C2F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9DB11BCE2C4152FD002D5C2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9DB11BD12C4152FD002D5C2F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9DB11BDA2C415775002D5C2F /* ModelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				9DB11BCA2C4152FC002D5C2F /* git_______App.swift */,
 				9DB11BCC2C4152FC002D5C2F /* ContentView.swift */,
+				9DB11BDA2C415775002D5C2F /* ModelView.swift */,
 				9DB11BCE2C4152FD002D5C2F /* Assets.xcassets */,
 				9DB11BD02C4152FD002D5C2F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DB11BDB2C415775002D5C2F /* ModelView.swift in Sources */,
 				9DB11BCD2C4152FC002D5C2F /* ContentView.swift in Sources */,
 				9DB11BCB2C4152FC002D5C2F /* git_______App.swift in Sources */,
 			);
